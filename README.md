@@ -1,2 +1,2 @@
 # combatlogs
-Pardus Combat Logs
+Some Pardus combat logs of interest.
